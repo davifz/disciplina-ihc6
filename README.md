@@ -65,7 +65,68 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 
 **Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
 
-**Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
+**Opção 2:** 
+
+**Qual é a natureza da instituição na qual você está empregado: escola pública ou escolaprivada?**
+
+Escola particular.
+
+
+**Qual série ou nível de ensino você está incumbido de lecionar?**
+
+Sou auxiliar na disciplina de inglês para o pré, e tenho uma oficina de robótica do
+primeiro até o quinto ano.
+
+
+**Qual é o número total de alunos matriculados na sua sala de aula?**
+
+O primeiro ano é a turma que eu tenho mais alunos, são 22. A partir do terceiro são
+menos, por volta de 14 alunos
+
+
+**Quais recursos educacionais estão disponíveis na instituição em que você trabalha?**
+
+Computadores para a coordenação e às vezes para os professores.
+
+
+**Qual é a metodologia pedagógica predominante empregada em suas atividades de ensino?**
+
+Em robótica e em inglês as atividades são práticas e dinâmicas. Em inglês os alunos
+são pequenos, então eles precisam brincar para aprender e, a oficina de robótica na
+execução dos projetos é uma mistura dos dois, mais focado na parte prática do projeto.
+
+
+**Qual é a frequência de uso de tecnologias educacionais na sua prática pedagógica?**
+
+Utilizo uma parte básica de arduino, infelizmente a coordenação não me ofereceuum curso para que eu pudesse preparar o conteúdo então eu tenho estudado por fora parapoder apresentar para os alunos.
+
+
+**Em quais áreas do currículo escolar os alunos demonstram maiores desafios de
+compreensão e aprendizado?**
+
+Em geral pelo que eu percebo é em matemática, mas estes são casos específicos. Aescola oferece aulas de reforço no contraturno para que eles não fiquem para trás.
+
+
+**Que tipo de recursos ou ferramentas adicionais você usa para auxiliar o processo deensino-aprendizagem?**
+
+Eu uso o canva para montar algumas atividades. Ou pego da internet. O
+curso de robótica que tenho que utilizar na oficina é pago. Esse é um problema que temosque lidar, grande parte das atividades que são diferentes que são mais atrativas aos alunostem que pagar por cada atividade ou pelo pacote de atividades.
+
+
+**Como é a rotina das aulas na escola em que você trabalha? O planejamento de aulas dosoutros professores tem uma base a ser seguida?**
+
+Por ser professora da oficina eu não tenho hora atividade, então a maior parte do
+planejamento eu tenho que fazer em casa. A rotina das outras professoras é:
+
+Cada dia da semana tem seus horários separados pelo recreio.
+
+Exemplo:
+● Segunda-feira: português e ciências;
+● Terça-feira: inglês e educação física;
+
+A partir do primeiro ano, se utiliza a BNCC (Base Nacional Comum Curricular) como basedas atividades para os conteúdos a serem abordados nas salas de aula.Aqui no Paranátambém tem a sua própria base comum curricular, o Referencial Curricular do Paraná.
+
+Toda atividade proposta que não seja das apostilas é implementada pelas professoras comoatividades impressas, atividades prática ou dinâmicas, são retiradas da internet por sites oucompartilhamentos em redes sociais.
 
 ## 2. Perfil do usuário (Até dia 18/04)
 
