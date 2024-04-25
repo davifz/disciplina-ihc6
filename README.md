@@ -8,15 +8,56 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+DAVI FELIPE ZENERATTO  
+
+DANIEL PABLO MESQUITA DE SOUSA JUNIOR  
+
+ISABELLA PIRES DA SILVA  
+
+SAMUEL RIBEIRO DA COSTA  
+
+PAULO ROBERTO MASCARO JUNIOR  
+
+LUCAS SILVA TEIXEIRA  
+
 
 ***1.2.  Problema***
 
-Descreva a situação atual e o problema que sua solução computacional visa resolver.
+Na atualidade professores têm dificuldade de encontrar atividades diferentes e de projetar seus materiais. Nosso sistema busca automatizar a tarefa de projetar e compartilhar atividades para professores.
 
 ***1.3.  Análise dos sistemas concorrentes***
 
-Analise  duas (2) soluções concorrentes e as descreva no contexto do seu problema. Você pode considerar alternativas não computacionais como concorrentes.
+#Moodle  
+
+O Moodle é uma plataforma de código aberto projetada para fornecer um 
+ambiente de aprendizado online.  
+
+Flexibilidade: É altamente personalizável e pode ser adaptado para atender às 
+necessidades específicas de diferentes instituições educacionais.  
+
+Recursos de Conteúdo: Permite o upload e compartilhamento de uma variedade 
+de recursos de conteúdo, incluindo documentos, vídeos, áudios e links da web.  
+
+Ferramentas de Avaliação: Oferece uma variedade de ferramentas de avaliação, 
+como questionários, tarefas, fóruns de discussão e pesquisas.  
+
+Comunicação: Possui recursos de comunicação integrados, como mensagens 
+privadas, fóruns de discussão e salas de bate-papo.
+
+
+#eduCapes  
+
+O eduCapes é uma plataforma que oferece recursos educacionais abertos, que 
+podem ser acessados e utilizados livremente por professores, alunos e 
+pesquisadores.  
+
+Diversidade de Recursos: Oferece uma ampla variedade de recursos 
+educacionais, incluindo livros didáticos, artigos acadêmicos, vídeos, simulações, 
+jogos educacionais e muito mais.  
+
+Acesso Gratuito: Todos os recursos disponibilizados no eduCAPES são gratuitos 
+para acesso e utilização, contribuindo para a democratização do acesso à 
+educação e ao conhecimento
 
 ***1.2.  Público Alvo***
 
@@ -30,17 +71,31 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 
 ***2.1. Descrição dos Usuários: Personas***
 
-Descreva os usuários da sua solução a partir das conclusões da análise das respostas do questionário aplicado com usuários.
+Marianna Neves  
+25 anos
+História: Mariana é professora e busca inovar no ensino de sua turma do segundo ano, comatividades que saiam da rotina das apostilas, e que sejam inclusivas com alunos quetenham deficiências no aprendizado. Ela gosta de criar suas próprias atividades, e aproveita
+para disponibilizar para outras professoras que queiram usar também tenham acesso.
+
+Motivação: Marianna sabe que algumas atividades disponíveis nas redes tem uma
+qualidade baixa e não trazem a acessibilidade ao alunos que tem dificuldade noaprendizado, como por exemplo baixa visão ou dislexia.
+
+Dificuldade: A busca das atividades até que ela encontre um template ou uma atividadeespecífica pode tirar muito tempo do horário de planejamento que ela tem. Ela tem um limitede armazenamento no computador da escola, não pode baixar um programa.
+
+TiCs: Ela utiliza o computador da escola para planejar suas aulas. A maior parte de suasatividades vem da redes sociais como o Instagram e o TikTok.
+ 
 
 ***2.2. Análise de Tarefas: ANTES***
 
-Apresente uma análise  de como as tarefas são atualmente realizadas pelo usuário, ou seja, sem o sistema que você pretende desenvolver. A coleta de dados para essa análise deve ser baseada na parte 1 do projeto. Apresente o resultado na forma de um cenário textual ou pictográfico (*storyboard*).
+A professora em seu planejamento de aula busca em redes sociais ou em alguns sites ideias para trazer atividades diferentes para seus alunos. Quando consegue encontrar umalegal, ela precisa pagar pelo acesso ou tentar copiar utilizando outro serviço de edição, oque tira a qualidade da impressão.
+ (*storyboard*)
 
 ***2.3. Análise de Tarefas: DEPOIS***
 
-Apresente uma análise de como você prevê as tarefas sendo realizadas pelo usuário quando o seu sistema estiver disponível (ou seja, quando ele estivesse 100% implementado). Apresente o resultado na forma de um cenário textual ou pictográfico (*storyboard*).
+A professora em seu planejamento de aula faz uma busca na plataforma por qual disciplinaela precisa de ideias para trazer atividades diferentes para seus alunos. Quando consegueencontrar uma que atenda os requisitos, ela pode baixar com alta qualidade, sem o risco deplágio e com a funcionalidade de aumentar a fonte e até imprimir em braile.
 
-**Sugestão:** os storyboards podem ser feitos na versão gratuita da ferramenta StoryboardThat ([https://www.storyboardthat.com/](https://www.storyboardthat.com/storyboard-creator) ).
+(*storyboard*)
+
+
 
 ## 3. Design (Até dia 16/05)
 
