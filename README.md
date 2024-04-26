@@ -51,13 +51,13 @@ educação e ao conhecimento.
 
 
 ***1.2.  Público Alvo***
+Professores de Ensino Fundamental I, Educadores em geral e Responsáveis que tenham interesse em proporcionar atividades diversificadas.  
 
-Realize uma pesquisa sobre os seus potenciais usuários considerando as alternativas abaixo:
+**Opção 1: Questionário**
+ ![Gráficos Questionário](https://github.com/isabellapires03/disciplina-ihc6/assets/163479024/8903ea35-1c44-4b7a-b5d1-445340db20f5)
 
-**Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
-
- ([Gráficos Questionário](https://github.com/isabellapires03/disciplina-ihc6/assets/163479024/8903ea35-1c44-4b7a-b5d1-445340db20f5)
-
+**Análise:**
+De acordo com os resultados obtidos, se conclue que a solução deve auxiliar os professor em suas atividades de hora aula e que incentive os alunos a estarem mais atentos as atividades propostas. 
 
 # **Entrevista** 
 
