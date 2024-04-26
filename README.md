@@ -56,6 +56,9 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 
 **Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
 
+ ([Gráficos Questionário](https://github.com/isabellapires03/disciplina-ihc6/assets/163479024/8903ea35-1c44-4b7a-b5d1-445340db20f5)
+
+
 # **Entrevista** 
 
 ***Qual é a natureza da instituição na qual você está empregado: escola pública ou escola
@@ -116,7 +119,7 @@ compartilhamentos em redes sociais.
 
 ***2.1. Descrição dos Usuários: Personas***
 
-# Marianna Neves  
+Marianna Neves  
 25 anos  
 
 História: Mariana é professora e busca inovar no ensino de sua turma do segundo ano, com
