@@ -53,6 +53,8 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ***2.1. Descrição dos Usuários: Personas***
 
+
+![]()
 Marianna Neves  
 25 anos  
 
@@ -104,6 +106,16 @@ RF15 |O sistema deve permitir que o usuário crie trilhas com atividades já dis
 
 ***3.2. Descrição textual***    
 
+> A plataforma deve ter um design simples que ajuda o usuário a buscar e montar suas atividades de forma prática. Apenas as funcionalidades principais aparecem ao usuário. Nosso protótipo tem o objetivo de auxiliar os professores a criarem ou baixarem atividades prontas na nossa plataforma. 
+
+> ***A prototipação se baseia em  6 telas iniciais:***
+> - Na tela de Cadastro, onde o usuário poderá fazer seu primeiro acesso à plataforma. 
+> - Na tela de Login deverá fazer o login com as informações que preencheu no cadastro. 
+> - Na tela de Perfil, ele já tem a opção de editar as informações da conta, dados pessoais, e-mail, e até mesmo deletar a conta. 
+> - Na tela Explorar o usuário pode pesquisar as atividades ou filtrar de acordo com a preferência na plataforma.
+> - Na tela de Detalhamento o usuário poderá baixar ou editar a atividade selecionada. 
+> - Na tela do Laboratório o usuário pode iniciar a criação de uma nova atividade, desde o cabeçalho até o salvamento final e/ou compartilhamento na plataforma.
+ 
 
 ***3.3. Design preliminar***      
 
@@ -116,19 +128,23 @@ RF15 |O sistema deve permitir que o usuário crie trilhas com atividades já dis
 
 ***5.1. Avaliação com usuários*** 
 
--   O que se deseja obter?    
--   Quando e onde vai acontecer?    
--   Qual a duração prevista de cada sessão?    
--   Qual o estado do sistema no início do teste?    
--   Quem serão os usuários?    
--   Quais tarefas serão solicitadas aos usuários?    
--   Qual critério será utilizado para decidir que os usuários terminaram cada tarefa corretamente?    
+> Objetivo do teste de usabilidade 
+
+> - Criar conta
+> - Fazer Login
+> - Encontrar atividades de Matemática
+> - Editar perfil
+> - Criar uma atividade e adicionar a trilha introdução
 
 Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
--   Descrever  a avaliação e os resultados obtidos (quais problemas foram identificados no seu design?).    
--   Resumir os resultados das avaliações com análise crítica referente a se os princípios e metas de usabilidade considerados importantes para o seu sistema foram satisfeitos ou não.
-- Apresentar uma análise crítica da avaliação realizada, com identificação de problemas e sugestões de melhorias (quais modificações devem ser realizadas na próxima versão do protótipo?).
+[Vídeo do Teste com Usuário](https://drive.google.com/file/d/1bJU8qKjP5T-OBxIaxASNqZ7hxYNzT_Km/view?usp=sharing)
+
+Identificamos alguns problemas em certos momentos, quando os links não funcionavam porque o protótipo não estava 100% funcional. Também percebemos que o site necessita de mais conteúdo, como imagens, e que algumas partes podem ser interativas. Para este trabalho, criamos um script onde o usuário deveria concluir algumas tarefas de forma intuitiva e sem auxílio algum, apenas navegando no site.
+
+ Acredito que, neste primeiro momento, nossa meta foi atingida, pois o protótipo atendeu aos requisitos definidos pela equipe no início do projeto, como editar conta, criar atividade, baixar atividade, entre outros. Definimos que o protótipo deveria ser simples de usar, já que ele atende a diferentes públicos, e estamos satisfeitos com o resultado obtido. Para melhorias futuras, acredito que adicionar algumas funcionalidades seria interessante, já que pretendemos diversificar as matérias e atender a outras disciplinas. 
+
+Outra funcionalidade seria aumentar as opções para criação de atividades, onde o professor teria outros templates e outras formas de apresentar seus trabalhos, como o Moodle oferece.
 
 ## Referências
 
