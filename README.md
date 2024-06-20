@@ -120,7 +120,7 @@ RF15 |O sistema deve permitir que o usuário crie trilhas com atividades já dis
 ![Sckechts](https://github.com/isabellapires03/disciplina-ihc6/blob/main/Frame%2011.png)
 ## 4. Protótipo (Até dia 23/05)
 
-[Protótipo Janelinha](https://www.figma.com/proto/aqBaMnxmFhfc3fVn74d4XH/Projeto-IHC---Grupo-6?node-id=1247-3&t=K2josjpUFne27f0Z-1&scaling=min-zoom&content-scaling=fixed&page-id=0:1) 
+[Protótipo Janelinha](https://www.figma.com/proto/aqBaMnxmFhfc3fVn74d4XH/Projeto-IHC---Grupo-6?node-id=1247-3&t=KWkxisvi8ve6z9nw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) 
 
 ## 5. Avaliação e Re-Design (Até dia 13/06)
 
