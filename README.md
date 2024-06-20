@@ -52,8 +52,8 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 ***2.1. Descrição dos Usuários: Personas***
 
 
-![]()
-Marianna Neves  
+![Marianna Neves](https://github.com/isabellapires03/disciplina-ihc6/blob/main/Frame%2010.png)
+  
 25 anos  
 
 #### História:
