@@ -52,9 +52,9 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 ***2.1. Descrição dos Usuários: Personas***
 
 
-![Marianna Neves](https://github.com/isabellapires03/disciplina-ihc6/blob/main/Frame%2010.png)
-  
-25 anos  
+> ![Marianna Neves](https://github.com/isabellapires03/disciplina-ihc6/blob/main/Frame%2010.png)
+> Marianna Neves
+> 25 anos  
 
 #### História:
 > Mariana é professora e busca inovar no ensino de sua turma do segundo ano, com atividades que saiam da rotina das apostilas, e que sejam inclusivas com alunos que tenham deficiências no aprendizado. Ela gosta de criar suas próprias atividades, e aproveita para disponibilizar para outras professoras que queiram usar também tenham acesso.
