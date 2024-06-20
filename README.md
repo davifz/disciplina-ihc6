@@ -148,8 +148,8 @@ Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
 
-[1] https://educapes.capes.gov.br/
+[1] Moodle <https://moodle.org/?lang=pt_br
+[2] eduCapes <https://educapes.capes.gov.br/>
 
-[2] https://moodle.org/?lang=pt_br
 
 
