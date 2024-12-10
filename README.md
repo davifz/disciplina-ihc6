@@ -8,12 +8,17 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ***1.1.  Nome do Grupo***
 
- ISABELLA PIRES DA SILVA  (Líder) 
- [DAVI FELIPE ZENERATTO](https://github.com/davifz)   
- [DANIEL PABLO MESQUITA DE SOUSA JUNIOR](https://github.com/Danielsousax)   
- [SAMUEL RIBEIRO DA COSTA](https://github.com/SamChaosDice)
- [PAULO ROBERTO MASCARO JUNIOR](https://github.com/paulomascarojr)   
- [LUCAS SILVA TEIXEIRA](https://github.com/RedMistc) 
+>ISABELLA PIRES DA SILVA  (Líder)
+> 
+>[DAVI FELIPE ZENERATTO](https://github.com/davifz)
+>
+>[DANIEL PABLO MESQUITA DE SOUSA JUNIOR](https://github.com/Danielsousax)
+>   
+>[SAMUEL RIBEIRO DA COSTA](https://github.com/SamChaosDice)
+>
+>[PAULO ROBERTO MASCARO JUNIOR](https://github.com/paulomascarojr)
+>   
+ >[LUCAS SILVA TEIXEIRA](https://github.com/RedMistc) 
 
 
 
