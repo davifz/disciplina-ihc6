@@ -18,7 +18,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 >
 >[PAULO ROBERTO MASCARO JUNIOR](https://github.com/paulomascarojr)
 >   
- >[LUCAS SILVA TEIXEIRA](https://github.com/RedMistc) 
+>[LUCAS SILVA TEIXEIRA](https://github.com/RedMistc) 
 
 
 
