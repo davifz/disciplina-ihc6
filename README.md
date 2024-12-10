@@ -8,8 +8,8 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ***1.1.  Nome do Grupo***
 
-> ISABELLA PIRES DA SILVA  (Líder) 
-> [DAVI FELIPE ZENERATTO](https://github.com/davifz)   
+ ISABELLA PIRES DA SILVA  (Líder) 
+ [DAVI FELIPE ZENERATTO](https://github.com/davifz)   
  [DANIEL PABLO MESQUITA DE SOUSA JUNIOR](https://github.com/Danielsousax)   
  [SAMUEL RIBEIRO DA COSTA](https://github.com/SamChaosDice)
  [PAULO ROBERTO MASCARO JUNIOR](https://github.com/paulomascarojr)   
@@ -42,7 +42,9 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 > Professores de Ensino Fundamental I, educadores em geral e responsáveis que tenham interesse em proporcionar atividades diversificadas.
 > ### **Questionário** ![Gráficos Questionário](https://github.com/isabellapires03/disciplina-ihc6/assets/163479024/8903ea35-1c44-4b7a-b5d1-445340db20f5)
 
- - **Análise:** De acordo com os resultados obtidos, se conclui que a solução deve auxiliar os professor em suas atividades de hora aula eque incentive os alunos a estarem mais atentos as atividadespropostas.
+ - **Análise:** De acordo com os resultados obtidos, se conclui que a solução deve auxiliar os professor em suas atividades de hora aula e
+que incentive os alunos a estarem mais atentos as atividades
+propostas.
 
 - [**Entrevista** ](https://docs.google.com/document/d/18H8q63nAt7oN3Tm3erxu5vZffFpbnjVTRbocDnGGj9Q/edit?usp=sharing)
 
@@ -132,7 +134,8 @@ RF15 |O sistema deve permitir que o usuário crie trilhas com atividades já dis
 > - Fazer Login
 > - Encontrar atividades de Matemática
 > - Editar perfil
-> - Criar uma atividade e adicionar a trilha introdução
+> - Criar uma atividade e adicionar a trilha introdução
+
 
 Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
